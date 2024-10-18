@@ -2,7 +2,7 @@
 
 Research field: Hematology, especially in Waldenstrom Macroglobulinemia and indolent B-cell lymphoma
 
-## Affiliation
+## Current Affiliations
 
 - PhD student at the Graduate School of Medicine, the University of Tokyo, Japan
 
@@ -17,3 +17,11 @@ Research field: Hematology, especially in Waldenstrom Macroglobulinemia and indo
 ## Works and achievements
 
 Would you mind seeing [my ORCID page?](https://orcid.org/0000-0002-4907-4647) Thank you!
+
+## Former Affiliations
+
+- Faculty of Medicine, the University of Tokyo, Japan (2015-2021)
+
+- [Tetsumon swimming team](https://tetsumonswim.com/)
+
+- Chemistry teacher at [Tetsuryokukai](https://www.tetsuryokukai.co.jp/) prep school, Japan
