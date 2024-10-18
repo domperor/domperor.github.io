@@ -1,6 +1,10 @@
 # Mitsuaki Oura, MD
 
-Research field: Hematology, especially in Waldenstrom Macroglobulinemia and indolent B-cell lymphoma
+**Current research fields**
+
+- Hematology, especially in Waldenstrom Macroglobulinemia and indolent B-cell lymphoma
+
+- Hyperammonemia in chemotherapy
 
 ## Current Affiliations
 
