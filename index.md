@@ -1,6 +1,6 @@
 # Mitsuaki Oura, MD
 
-**Physician Scientist | Hematologist**
+**Physician Scientist \| Hematologist**
 
 ### Research Interests
 
