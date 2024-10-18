@@ -1,33 +1,26 @@
 # Mitsuaki Oura, MD
 
-Physician scientist, practicing hematology
+**Physician Scientist | Hematologist**
 
-### Current research fields
+### Research Interests
 
-- Hematology, especially in Waldenstrom Macroglobulinemia and indolent B-cell lymphoma
-
-- Hyperammonemia in chemotherapy
+- Hematology, with a focus on Waldenström Macroglobulinemia and indolent B-cell lymphoma
+- Hyperammonemia related to chemotherapy
 
 ## Current Affiliations
 
-- PhD student at the Graduate School of Medicine, the University of Tokyo, Japan
+- PhD Student, Graduate School of Medicine, University of Tokyo, Japan
+- Senior Resident, [Department of Hematology and Oncology, University of Tokyo Hospital](https://www.u-tokyo-hemat.com/), Japan
+- Senior Resident, [Division of Hematology/Oncology, Kameda Medical Center](https://medical.kameda.com/general/medi_services/index_17.html), Japan
+- Member, [University of Tokyo TeX Club](https://ut-tex.org/)
+- Member, [TSG](https://tsg.ne.jp/)
 
-- Senior resident at [the Department of Hematology and Oncology, the University of Tokyo Hospital, Japan](https://www.u-tokyo-hemat.com/)
+## Works and Achievements
 
-- Senior resident at [the Division of Hematology/Oncology, Kameda Medical Center, Japan](https://medical.kameda.com/general/medi_services/index_17.html)
-
-- Member of [the University of Tokyo TeX club](https://ut-tex.org/)
-
-- Member of [TSG](https://tsg.ne.jp/)
-
-## Works and achievements
-
-Would you mind seeing [my ORCID page?](https://orcid.org/0000-0002-4907-4647) Thank you!
+Feel free to visit [my ORCID page](https://orcid.org/0000-0002-4907-4647) for more details. Thank you!
 
 ## Former Affiliations
 
-- Faculty of Medicine, the University of Tokyo, Japan (2015-2021)
-
-- [Tetsumon swimming team](https://tetsumonswim.com/)
-
-- Chemistry teacher at [Tetsuryokukai](https://www.tetsuryokukai.co.jp/) prep school, Japan
+- Faculty of Medicine, University of Tokyo, Japan (2015-2021)
+- Member, [Tetsumon Swimming Team](https://tetsumonswim.com/)
+- Chemistry Teacher, [Tetsuryokukai](https://www.tetsuryokukai.co.jp/) Prep School, Japan
