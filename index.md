@@ -17,7 +17,7 @@
 
 ## Works and Achievements
 
-Feel free to visit [my ORCID page](https://orcid.org/0000-0002-4907-4647) for more details. Thank you!
+Would you mind visiting [my ORCID page](https://orcid.org/0000-0002-4907-4647) for more details. Thank you!
 
 ## Former Affiliations
 
