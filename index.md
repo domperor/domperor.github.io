@@ -8,7 +8,7 @@
 
 - Senior resident at [the Division of Hematology/Oncology, Kameda Medical Center, Japan](https://medical.kameda.com/general/medi_services/index_17.html)
 
-- Member of [The University of Tokyo TeX club](https://ut-tex.org/)
+- Member of [the University of Tokyo TeX club](https://ut-tex.org/)
 
 - Member of [TSG](https://tsg.ne.jp/)
 
