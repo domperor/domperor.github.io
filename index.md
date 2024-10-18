@@ -1,5 +1,7 @@
 # Mitsuaki Oura, MD
 
+Research field: Hematology, especially in Waldenstrom Macroglobulinemia and indolent B-cell lymphoma
+
 ## Affiliation
 
 - PhD student at the Graduate School of Medicine, the University of Tokyo, Japan
