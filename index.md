@@ -1,6 +1,8 @@
 # Mitsuaki Oura, MD
 
-**Current research fields**
+Physician scientist, practicing hematology
+
+### Current research fields
 
 - Hematology, especially in Waldenstrom Macroglobulinemia and indolent B-cell lymphoma
 
