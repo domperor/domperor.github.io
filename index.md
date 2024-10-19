@@ -26,3 +26,11 @@ Would you mind visiting [my ORCID page](https://orcid.org/0000-0002-4907-4647) f
 - Member, [Tetsumon Swimming Team](https://tetsumonswim.com/)
 - Chemistry Teacher, [Tetsuryokukai](https://www.tetsuryokukai.co.jp/) Prep School, Japan
 - Science Communicator, [University of Tokyo CAST](https://ut-cast.net), Japan
+
+## Links
+
+- [X (Twitter)](https://x.com/domperor)
+- [Facebook](https://www.facebook.com/profile.php?id=100005282982495)
+- [Qiita](https://qiita.com/domperor)
+- [GitHub](https://github.com/domperor)
+- [Blog](http://raccho32.blog.fc2.com/)
