@@ -26,6 +26,7 @@ Would you mind visiting [my ORCID page](https://orcid.org/0000-0002-4907-4647) f
 - Member, [Tetsumon Swimming Team](https://tetsumonswim.com/)
 - Chemistry Teacher, [Tetsuryokukai](https://www.tetsuryokukai.co.jp/) Prep School, Japan
 - Science Communicator, [University of Tokyo CAST](https://ut-cast.net), Japan
+- Vice Editor-in-Chief, [Tetsumon Dayori](http://tetsumon.umin.ac.jp/tetsumondayori.html), Tetsumon Club, Japan
 
 ## Links
 
