@@ -27,6 +27,7 @@ Would you mind visiting [my ORCID page](https://orcid.org/0000-0002-4907-4647) f
 - Chemistry Teacher, [Tetsuryokukai](https://www.tetsuryokukai.co.jp/) Prep School, Japan (2015-2021)
 - Science Communicator, [University of Tokyo CAST](https://ut-cast.net), Japan
 - Vice Editor-in-Chief, [Tetsumon Dayori](http://tetsumon.umin.ac.jp/tetsumondayori.html), Tetsumon Club, Japan (2019-2020)
+- Tsume shogi creator, Keio Junior/Senior High School (2009-2015). [Checkmate with 179 moves](http://raccho.web.fc2.com/ans/tans1.htm)
 
 ## Links
 
