@@ -1,4 +1,4 @@
-# Mitsuaki Oura, MD (\@domperor)
+# Mitsuaki Oura, MD 
 
 **Physician Scientist \| Hematologist**
 
@@ -30,6 +30,8 @@ Would you mind visiting [my ORCID page](https://orcid.org/0000-0002-4907-4647) f
 - Tsume shogi creator, Keio Junior/Senior High School (2009-2015). [Checkmate with 179 moves](http://raccho.web.fc2.com/ans/tans1.htm)
 
 ## Links
+
+Username: @domperor
 
 - [X (Twitter)](https://x.com/domperor)
 - [Facebook](https://www.facebook.com/profile.php?id=100005282982495)
