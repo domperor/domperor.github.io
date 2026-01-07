@@ -31,7 +31,7 @@ Would you mind visiting [my ORCID page](https://orcid.org/0000-0002-4907-4647) f
 
 ## Links
 
-[![nbib2ris](./nbib2ris_logo.png)](https://domperor.shinyapps.io/nbib2ris/)
+[![nbib2ris](./nbib2ris_logo.png)](https://domperor.shinyapps.io/nbib2ris/): This is .nbib to .ris converter I have made, for Mendeley Reference Manager.
 
 Username: @domperor
 
