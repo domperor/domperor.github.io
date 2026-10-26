@@ -11,7 +11,6 @@
 
 - PhD Student, [Graduate School of Medicine, University of Tokyo](https://www.u-tokyo-hemat.com/research.html), Japan
 - Senior Resident, [Department of Hematology and Oncology, University of Tokyo Hospital](https://www.u-tokyo-hemat.com/), Japan
-- Senior Resident, [Division of Hematology/Oncology, Kameda Medical Center](https://medical.kameda.com/general/medi_services/index_17.html), Japan
 - Member (Former Head), [University of Tokyo TeX Club](https://ut-tex.org/)
 - Member, [TSG](https://tsg.ne.jp/)
 
@@ -21,6 +20,7 @@ Would you mind visiting [my ORCID page](https://orcid.org/0000-0002-4907-4647) f
 
 ## Former Affiliations
 
+- Senior Resident, [Division of Hematology/Oncology, Kameda Medical Center](https://medical.kameda.com/general/medi_services/index_17.html), Japan (2023-2026)
 - Junior Resident, [Takeda General Hospital](http://www.takeda.or.jp/), Japan (2021-2023)
 - Faculty of Medicine, University of Tokyo, Japan (2015-2021)
 - Member, [Tetsumon Swimming Team](https://tetsumonswim.com/)
