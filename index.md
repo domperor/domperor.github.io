@@ -4,7 +4,7 @@
 
 ### Research Interests
 
-- Hematology, with a focus on Waldenström Macroglobulinemia and indolent B-cell lymphoma
+- Hematology, with a focus on Chronic Myeloid Leukemia, Waldenström Macroglobulinemia and indolent B-cell lymphoma
 - Hyperammonemia related to chemotherapy
 
 ## Current Affiliations
